@@ -10,8 +10,8 @@ class smseourl extends Module
 		$this->need_instance = 0;
 		$this->bootstrap = true;
 		parent::__construct();
-		$this->displayName = $this->l('SEO URL Module');
-		$this->description = $this->l('SEO URL Module. If you want to make a Online E-Commerce Store Using Prestashop, WordPress, Opencart, Laravel, Django. Please email Us : kamrulbd36@gmail.com ');
+		$this->displayName = $this->l('SEO Friendly URL Module');
+		$this->description = $this->l('SEO Friendly URL Module. If you want to make a Online E-Commerce Store Using Prestashop, WordPress, Opencart, Laravel, Django. Please email Us : kamrulbd36@gmail.com ');
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => _PS_VERSION_);
 	}
 	public function install()
