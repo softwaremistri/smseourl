@@ -2,9 +2,13 @@
 
 This is Prestashop SEO Friendly URL Module. This module is compatiable with prestashop 1.6.X.X to prestashop 1.7.X.X version. 
 
+# No Core Change ( without any override )
+
+This module has not use any override system. This module don't change any core prestashop files That why its very easy to use.
+
 # Installation / Usage
 
-Prestashop default modules installation system.  
+Prestashop default modules installation system. 
 
 # Support
 
